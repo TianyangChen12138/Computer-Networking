@@ -1,3 +1,5 @@
+ICMP	Traceroute	Lab
+
 In this lab you will learn how to implement a traceroute application using ICMP request and reply
 messages. Students are strongly encouraged to first do the ICMP Ping lab before the ICMP Traceroute
 lab as it is done with the same approach. The checksum and header making are not covered in this lab,
